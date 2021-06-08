@@ -1,10 +1,13 @@
-### Hi there 👋
- <ul>📫 How to reach me: ... <br>
- <li> [Twitter @AshishKanouji17](https://twitter.com/AshishKanouji17) </li>
- <li>[LinkedIn](https://www.linkedin.com/in/ashish-kanoujia-2b4b1a1a4/)</li>
- </ul>
+### Hola Guys !! 👋
+ 📫 How to reach me: ... 
+<!--  <a href = "https://twitter.com/AshishKanouji17">
+ <i class="fa fa-twitter" aria-hidden="true"></i>
+ </a> -->
+ [Twitter](https://twitter.com/AshishKanouji17) <br>
+ [LinkedIn](https://www.linkedin.com/in/ashish-kanoujia-2b4b1a1a4/)
+ 
  <img src = "https://github-readme-stats.vercel.app/api/?username=Halfsoul24&count_private=true&theme=tokyonight&showicons=true">
- <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=jasongaylord&langs_count=5&theme=tokyonight">
+ <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Halfsoul24&langs_count=5&theme=tokyonight">
 
 
 <!--
