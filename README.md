@@ -1,5 +1,7 @@
 ### Hi there 👋
- 📫 How to reach me: ...[Twitter @AshishKanouji17](https://twitter.com/AshishKanouji17)
+ 📫 How to reach me: ... <br>
+         [Twitter @AshishKanouji17](https://twitter.com/AshishKanouji17) <br>
+         [LinkedIn](https://www.linkedin.com/in/ashish-kanoujia-2b4b1a1a4/)
 
 <!--
 **Halfsoul24/Halfsoul24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
