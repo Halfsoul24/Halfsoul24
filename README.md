@@ -1,7 +1,10 @@
 ### Hi there 👋
- 📫 How to reach me: ... <br>
-         [Twitter @AshishKanouji17](https://twitter.com/AshishKanouji17) <br>
-         [LinkedIn](https://www.linkedin.com/in/ashish-kanoujia-2b4b1a1a4/)
+ <ul>📫 How to reach me: ... <br>
+ <li> [Twitter @AshishKanouji17](https://twitter.com/AshishKanouji17) </li>
+ <li>[LinkedIn](https://www.linkedin.com/in/ashish-kanoujia-2b4b1a1a4/)</li>
+ </ul>
+ [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Halfsoul24&count_private=true&theme=tokyonight&showicons=true)
+
 
 <!--
 **Halfsoul24/Halfsoul24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
