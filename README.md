@@ -5,10 +5,11 @@
  </a> -->
  [Twitter](https://twitter.com/AshishKanouji17) <br>
  [LinkedIn](https://www.linkedin.com/in/ashish-kanoujia-2b4b1a1a4/)
+ <span><a href="https://www.linkedin.com/in/ashish-kanoujia-2b4b1a1a4/"><i class="fab fa-linkedin link-icon"></i></a></span>
+
  
  <img src = "https://github-readme-stats.vercel.app/api/?username=Halfsoul24&count_private=true&theme=tokyonight&showicons=true">
  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Halfsoul24&langs_count=5&theme=tokyonight">
-
 
 <!--
 **Halfsoul24/Halfsoul24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
