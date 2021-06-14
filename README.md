@@ -1,4 +1,5 @@
 ### Hola Guys !! 👋
+I am Ashish Kanoujia, a Full Stack Developer (loves to be at front-end)
  📫 How to reach me: ... 
 <!--  <a href = "https://twitter.com/AshishKanouji17">
  <i class="fa fa-twitter" aria-hidden="true"></i>
