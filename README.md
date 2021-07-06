@@ -1,4 +1,4 @@
-### Hola Guys !! 👋
+### Hey Guys !! 👋
 I am Ashish Kanoujia, a Full Stack Developer (loves to be at front-end) <br>
  📫 How to reach me: ... 
 <!--  <a href = "https://twitter.com/AshishKanouji17">
